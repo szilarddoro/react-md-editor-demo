@@ -71,6 +71,10 @@ Run `ng e2e my-app` to execute the end-to-end tests via [Cypress](https://www.cy
 
 Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
 
+## Running storybook
+
+Run `nx storybook my-lib` to start Storybook. Navigate to http://localhost:4400/.
+
 ## Understand your workspace
 
 Run `nx dep-graph` to see a diagram of the dependencies of your projects.
