@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@szilarddoro/core-ui": ["libs/core-ui/src/index.ts"]
+      "@szilarddoro/core-ui": ["libs/core-ui/src/index.ts"],
+      "@szilarddoro/core-ui/*": ["libs/core-ui/src/lib/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]

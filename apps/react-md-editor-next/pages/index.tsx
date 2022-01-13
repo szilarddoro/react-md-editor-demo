@@ -1,4 +1,4 @@
-import { MarkdownEditor } from '@szilarddoro/core-ui';
+import MarkdownEditor from '@szilarddoro/core-ui/markdown-editor';
 
 export default function Home() {
   return (
