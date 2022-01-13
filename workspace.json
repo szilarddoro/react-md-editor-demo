@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "react-md-editor-next": "apps/react-md-editor-next",
+    "react-md-editor-next-e2e": "apps/react-md-editor-next-e2e"
+  }
+}
